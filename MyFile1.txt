@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 2nd time updating the file.
+=======
+My 1st developed file. - Merge 2
+>>>>>>> develop2
