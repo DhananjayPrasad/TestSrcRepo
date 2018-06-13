@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Updating the file here 1st time - Test Merge 1
 
 Changes  made here 
@@ -5,3 +6,6 @@ Changes  made here
 Making change 3
 
 
+=======
+Test merge 1
+>>>>>>> develop
